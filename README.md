@@ -89,16 +89,6 @@ Enterprise-style finance management application built using microservices archit
 
 Spring Boot • Microservices • PostgreSQL • Docker • JWT
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashu8112\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashu8112\&layout=compact)
-
----
-
 ## 🎯 Current Focus
 
 * Advanced Spring Boot
